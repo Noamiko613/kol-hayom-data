@@ -1,0 +1,3820 @@
+{
+  "Torah": {
+    "במדבר": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        }
+      ]
+    },
+    "בראשית": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        },
+        {
+          "chapter": "מג",
+          "verses": []
+        },
+        {
+          "chapter": "מד",
+          "verses": []
+        },
+        {
+          "chapter": "מה",
+          "verses": []
+        },
+        {
+          "chapter": "מו",
+          "verses": []
+        },
+        {
+          "chapter": "מז",
+          "verses": []
+        },
+        {
+          "chapter": "מח",
+          "verses": []
+        },
+        {
+          "chapter": "מט",
+          "verses": []
+        },
+        {
+          "chapter": "נ",
+          "verses": []
+        }
+      ]
+    },
+    "דברים": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        }
+      ]
+    },
+    "שמות": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        }
+      ]
+    },
+    "ויקרא": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        }
+      ]
+    }
+  },
+  "Prophets": {
+    "עמוס": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        }
+      ]
+    },
+    "חגי": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        }
+      ]
+    },
+    "חבקוק": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        }
+      ]
+    },
+    "הושע": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        }
+      ]
+    },
+    "מלאכי": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        }
+      ]
+    },
+    "מלכים א": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        }
+      ]
+    },
+    "מלכים ב": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        }
+      ]
+    },
+    "מיכה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        }
+      ]
+    },
+    "נחום": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        }
+      ]
+    },
+    "עובדיה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        }
+      ]
+    },
+    "שמואל א": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        }
+      ]
+    },
+    "שמואל ב": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        }
+      ]
+    },
+    "שופטים": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        }
+      ]
+    },
+    "יחזקאל": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        },
+        {
+          "chapter": "מג",
+          "verses": []
+        },
+        {
+          "chapter": "מד",
+          "verses": []
+        },
+        {
+          "chapter": "מה",
+          "verses": []
+        },
+        {
+          "chapter": "מו",
+          "verses": []
+        },
+        {
+          "chapter": "מז",
+          "verses": []
+        },
+        {
+          "chapter": "מח",
+          "verses": []
+        }
+      ]
+    },
+    "יהושע": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        }
+      ]
+    },
+    "ירמיהו": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        },
+        {
+          "chapter": "מג",
+          "verses": []
+        },
+        {
+          "chapter": "מד",
+          "verses": []
+        },
+        {
+          "chapter": "מה",
+          "verses": []
+        },
+        {
+          "chapter": "מו",
+          "verses": []
+        },
+        {
+          "chapter": "מז",
+          "verses": []
+        },
+        {
+          "chapter": "מח",
+          "verses": []
+        },
+        {
+          "chapter": "מט",
+          "verses": []
+        },
+        {
+          "chapter": "נ",
+          "verses": []
+        },
+        {
+          "chapter": "נא",
+          "verses": []
+        },
+        {
+          "chapter": "נב",
+          "verses": []
+        }
+      ]
+    },
+    "ישעיהו": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        },
+        {
+          "chapter": "מג",
+          "verses": []
+        },
+        {
+          "chapter": "מד",
+          "verses": []
+        },
+        {
+          "chapter": "מה",
+          "verses": []
+        },
+        {
+          "chapter": "מו",
+          "verses": []
+        },
+        {
+          "chapter": "מז",
+          "verses": []
+        },
+        {
+          "chapter": "מח",
+          "verses": []
+        },
+        {
+          "chapter": "מט",
+          "verses": []
+        },
+        {
+          "chapter": "נ",
+          "verses": []
+        },
+        {
+          "chapter": "נא",
+          "verses": []
+        },
+        {
+          "chapter": "נב",
+          "verses": []
+        },
+        {
+          "chapter": "נג",
+          "verses": []
+        },
+        {
+          "chapter": "נד",
+          "verses": []
+        },
+        {
+          "chapter": "נה",
+          "verses": []
+        },
+        {
+          "chapter": "נו",
+          "verses": []
+        },
+        {
+          "chapter": "נז",
+          "verses": []
+        },
+        {
+          "chapter": "נח",
+          "verses": []
+        },
+        {
+          "chapter": "נט",
+          "verses": []
+        },
+        {
+          "chapter": "ס",
+          "verses": []
+        },
+        {
+          "chapter": "סא",
+          "verses": []
+        },
+        {
+          "chapter": "סב",
+          "verses": []
+        },
+        {
+          "chapter": "סג",
+          "verses": []
+        },
+        {
+          "chapter": "סד",
+          "verses": []
+        },
+        {
+          "chapter": "סה",
+          "verses": []
+        },
+        {
+          "chapter": "סו",
+          "verses": []
+        }
+      ]
+    },
+    "יואל": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        }
+      ]
+    },
+    "יונה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        }
+      ]
+    },
+    "צפניה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        }
+      ]
+    }
+  },
+  "Writings": {
+    "דניאל": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        }
+      ]
+    },
+    "דברי הימים א": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        }
+      ]
+    },
+    "דברי הימים ב": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        }
+      ]
+    },
+    "איכה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        }
+      ]
+    },
+    "אסתר": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        }
+      ]
+    },
+    "עזרא": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        }
+      ]
+    },
+    "איוב": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        }
+      ]
+    },
+    "קהלת": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        }
+      ]
+    },
+    "משלי": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        }
+      ]
+    },
+    "נחמיה": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        }
+      ]
+    },
+    "רות": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        }
+      ]
+    },
+    "שיר השירים": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        }
+      ]
+    },
+    "תהילים": {
+      "nikud": [
+        {
+          "chapter": "א",
+          "verses": []
+        },
+        {
+          "chapter": "ב",
+          "verses": []
+        },
+        {
+          "chapter": "ג",
+          "verses": []
+        },
+        {
+          "chapter": "ד",
+          "verses": []
+        },
+        {
+          "chapter": "ה",
+          "verses": []
+        },
+        {
+          "chapter": "ו",
+          "verses": []
+        },
+        {
+          "chapter": "ז",
+          "verses": []
+        },
+        {
+          "chapter": "ח",
+          "verses": []
+        },
+        {
+          "chapter": "ט",
+          "verses": []
+        },
+        {
+          "chapter": "י",
+          "verses": []
+        },
+        {
+          "chapter": "יא",
+          "verses": []
+        },
+        {
+          "chapter": "יב",
+          "verses": []
+        },
+        {
+          "chapter": "יג",
+          "verses": []
+        },
+        {
+          "chapter": "יד",
+          "verses": []
+        },
+        {
+          "chapter": "טו",
+          "verses": []
+        },
+        {
+          "chapter": "טז",
+          "verses": []
+        },
+        {
+          "chapter": "יז",
+          "verses": []
+        },
+        {
+          "chapter": "יח",
+          "verses": []
+        },
+        {
+          "chapter": "יט",
+          "verses": []
+        },
+        {
+          "chapter": "כ",
+          "verses": []
+        },
+        {
+          "chapter": "כא",
+          "verses": []
+        },
+        {
+          "chapter": "כב",
+          "verses": []
+        },
+        {
+          "chapter": "כג",
+          "verses": []
+        },
+        {
+          "chapter": "כד",
+          "verses": []
+        },
+        {
+          "chapter": "כה",
+          "verses": []
+        },
+        {
+          "chapter": "כו",
+          "verses": []
+        },
+        {
+          "chapter": "כז",
+          "verses": []
+        },
+        {
+          "chapter": "כח",
+          "verses": []
+        },
+        {
+          "chapter": "כט",
+          "verses": []
+        },
+        {
+          "chapter": "ל",
+          "verses": []
+        },
+        {
+          "chapter": "לא",
+          "verses": []
+        },
+        {
+          "chapter": "לב",
+          "verses": []
+        },
+        {
+          "chapter": "לג",
+          "verses": []
+        },
+        {
+          "chapter": "לד",
+          "verses": []
+        },
+        {
+          "chapter": "לה",
+          "verses": []
+        },
+        {
+          "chapter": "לו",
+          "verses": []
+        },
+        {
+          "chapter": "לז",
+          "verses": []
+        },
+        {
+          "chapter": "לח",
+          "verses": []
+        },
+        {
+          "chapter": "לט",
+          "verses": []
+        },
+        {
+          "chapter": "מ",
+          "verses": []
+        },
+        {
+          "chapter": "מא",
+          "verses": []
+        },
+        {
+          "chapter": "מב",
+          "verses": []
+        },
+        {
+          "chapter": "מג",
+          "verses": []
+        },
+        {
+          "chapter": "מד",
+          "verses": []
+        },
+        {
+          "chapter": "מה",
+          "verses": []
+        },
+        {
+          "chapter": "מו",
+          "verses": []
+        },
+        {
+          "chapter": "מז",
+          "verses": []
+        },
+        {
+          "chapter": "מח",
+          "verses": []
+        },
+        {
+          "chapter": "מט",
+          "verses": []
+        },
+        {
+          "chapter": "נ",
+          "verses": []
+        },
+        {
+          "chapter": "נא",
+          "verses": []
+        },
+        {
+          "chapter": "נב",
+          "verses": []
+        },
+        {
+          "chapter": "נג",
+          "verses": []
+        },
+        {
+          "chapter": "נד",
+          "verses": []
+        },
+        {
+          "chapter": "נה",
+          "verses": []
+        },
+        {
+          "chapter": "נו",
+          "verses": []
+        },
+        {
+          "chapter": "נז",
+          "verses": []
+        },
+        {
+          "chapter": "נח",
+          "verses": []
+        },
+        {
+          "chapter": "נט",
+          "verses": []
+        },
+        {
+          "chapter": "ס",
+          "verses": []
+        },
+        {
+          "chapter": "סא",
+          "verses": []
+        },
+        {
+          "chapter": "סב",
+          "verses": []
+        },
+        {
+          "chapter": "סג",
+          "verses": []
+        },
+        {
+          "chapter": "סד",
+          "verses": []
+        },
+        {
+          "chapter": "סה",
+          "verses": []
+        },
+        {
+          "chapter": "סו",
+          "verses": []
+        },
+        {
+          "chapter": "סז",
+          "verses": []
+        },
+        {
+          "chapter": "סח",
+          "verses": []
+        },
+        {
+          "chapter": "סט",
+          "verses": []
+        },
+        {
+          "chapter": "ע",
+          "verses": []
+        },
+        {
+          "chapter": "עא",
+          "verses": []
+        },
+        {
+          "chapter": "עב",
+          "verses": []
+        },
+        {
+          "chapter": "עג",
+          "verses": []
+        },
+        {
+          "chapter": "עד",
+          "verses": []
+        },
+        {
+          "chapter": "עה",
+          "verses": []
+        },
+        {
+          "chapter": "עו",
+          "verses": []
+        },
+        {
+          "chapter": "עז",
+          "verses": []
+        },
+        {
+          "chapter": "עח",
+          "verses": []
+        },
+        {
+          "chapter": "עט",
+          "verses": []
+        },
+        {
+          "chapter": "פ",
+          "verses": []
+        },
+        {
+          "chapter": "פא",
+          "verses": []
+        },
+        {
+          "chapter": "פב",
+          "verses": []
+        },
+        {
+          "chapter": "פג",
+          "verses": []
+        },
+        {
+          "chapter": "פד",
+          "verses": []
+        },
+        {
+          "chapter": "פה",
+          "verses": []
+        },
+        {
+          "chapter": "פו",
+          "verses": []
+        },
+        {
+          "chapter": "פז",
+          "verses": []
+        },
+        {
+          "chapter": "פח",
+          "verses": []
+        },
+        {
+          "chapter": "פט",
+          "verses": []
+        },
+        {
+          "chapter": "צ",
+          "verses": []
+        },
+        {
+          "chapter": "צא",
+          "verses": []
+        },
+        {
+          "chapter": "צב",
+          "verses": []
+        },
+        {
+          "chapter": "צג",
+          "verses": []
+        },
+        {
+          "chapter": "צד",
+          "verses": []
+        },
+        {
+          "chapter": "צה",
+          "verses": []
+        },
+        {
+          "chapter": "צו",
+          "verses": []
+        },
+        {
+          "chapter": "צז",
+          "verses": []
+        },
+        {
+          "chapter": "צח",
+          "verses": []
+        },
+        {
+          "chapter": "צט",
+          "verses": []
+        },
+        {
+          "chapter": "ק",
+          "verses": []
+        },
+        {
+          "chapter": "קא",
+          "verses": []
+        },
+        {
+          "chapter": "קב",
+          "verses": []
+        },
+        {
+          "chapter": "קג",
+          "verses": []
+        },
+        {
+          "chapter": "קד",
+          "verses": []
+        },
+        {
+          "chapter": "קה",
+          "verses": []
+        },
+        {
+          "chapter": "קו",
+          "verses": []
+        },
+        {
+          "chapter": "קז",
+          "verses": []
+        },
+        {
+          "chapter": "קח",
+          "verses": []
+        },
+        {
+          "chapter": "קט",
+          "verses": []
+        },
+        {
+          "chapter": "קי",
+          "verses": []
+        },
+        {
+          "chapter": "קיא",
+          "verses": []
+        },
+        {
+          "chapter": "קיב",
+          "verses": []
+        },
+        {
+          "chapter": "קיג",
+          "verses": []
+        },
+        {
+          "chapter": "קיד",
+          "verses": []
+        },
+        {
+          "chapter": "קטו",
+          "verses": []
+        },
+        {
+          "chapter": "קטז",
+          "verses": []
+        },
+        {
+          "chapter": "קיז",
+          "verses": []
+        },
+        {
+          "chapter": "קיח",
+          "verses": []
+        },
+        {
+          "chapter": "קיט",
+          "verses": []
+        },
+        {
+          "chapter": "קכ",
+          "verses": []
+        },
+        {
+          "chapter": "קכא",
+          "verses": []
+        },
+        {
+          "chapter": "קכב",
+          "verses": []
+        },
+        {
+          "chapter": "קכג",
+          "verses": []
+        },
+        {
+          "chapter": "קכד",
+          "verses": []
+        },
+        {
+          "chapter": "קכה",
+          "verses": []
+        },
+        {
+          "chapter": "קכו",
+          "verses": []
+        },
+        {
+          "chapter": "קכז",
+          "verses": []
+        },
+        {
+          "chapter": "קכח",
+          "verses": []
+        },
+        {
+          "chapter": "קכט",
+          "verses": []
+        },
+        {
+          "chapter": "קל",
+          "verses": []
+        },
+        {
+          "chapter": "קלא",
+          "verses": []
+        },
+        {
+          "chapter": "קלב",
+          "verses": []
+        },
+        {
+          "chapter": "קלג",
+          "verses": []
+        },
+        {
+          "chapter": "קלד",
+          "verses": []
+        },
+        {
+          "chapter": "קלה",
+          "verses": []
+        },
+        {
+          "chapter": "קלו",
+          "verses": []
+        },
+        {
+          "chapter": "קלז",
+          "verses": []
+        },
+        {
+          "chapter": "קלח",
+          "verses": []
+        },
+        {
+          "chapter": "קלט",
+          "verses": []
+        },
+        {
+          "chapter": "קמ",
+          "verses": []
+        },
+        {
+          "chapter": "קמא",
+          "verses": []
+        },
+        {
+          "chapter": "קמב",
+          "verses": []
+        },
+        {
+          "chapter": "קמג",
+          "verses": []
+        },
+        {
+          "chapter": "קמד",
+          "verses": []
+        },
+        {
+          "chapter": "קמה",
+          "verses": []
+        },
+        {
+          "chapter": "קמו",
+          "verses": []
+        },
+        {
+          "chapter": "קמז",
+          "verses": []
+        },
+        {
+          "chapter": "קמח",
+          "verses": []
+        },
+        {
+          "chapter": "קמט",
+          "verses": []
+        },
+        {
+          "chapter": "קנ",
+          "verses": []
+        }
+      ]
+    }
+  }
+}
