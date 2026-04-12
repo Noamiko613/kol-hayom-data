@@ -1,1 +1,2 @@
-LastLevelIndex=2ForcedBookName=מצודת דודGroupId=b26SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_MALACHI Layer 2 - 0 pages
+דוד
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_MALACHI Layer 2 - 0 pages

@@ -1,1 +1,2 @@
-CosmeticsType==726TextSource=ר' פנחס ראובן שליט''אGroupId=b6SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\_NA_YEHOSUA Layer 3 - 0 pages
+' פנחס ראובן שליט''א
+// C:\Dev\BhOCR\Runtime files\Projects\_NA_YEHOSUA Layer 3 - 0 pages

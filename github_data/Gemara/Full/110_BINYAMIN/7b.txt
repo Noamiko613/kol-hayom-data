@@ -1,1 +1,4 @@
-TextSource=הרב בנימין נבול שליט''אGroupId=mishna_avot&CosmeticsType=nik=1pr2=#1 // C:\Dev\BhOCR\Runtime files\Projects\BINYAMIN Layer 1 - 0 pages הרב בנימין נבול שליט''א
+בנימין נבול שליט''א#1
+// C:\Dev\BhOCR\Runtime files\Projects\BINYAMIN Layer 1 - 0 pages
+
+הרב בנימין נבול שליט''א

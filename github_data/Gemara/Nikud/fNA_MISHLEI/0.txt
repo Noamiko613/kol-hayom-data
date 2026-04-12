@@ -1,1 +1,2 @@
-LastLevelIndex=2ForcedBookName=מצודת דודGroupId=b28SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_MISHLEI Layer 2 - 0 pages
+דוד
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_MISHLEI Layer 2 - 0 pages

@@ -1,1 +1,2 @@
-TextSource=ר' פנחס ראובן שליט''אForcedBookName=מצודת דודGroupId=b9SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\_NA_SHMUEL_B Layer 2 - 0 pages
+' פנחס ראובן שליט''א דוד
+// C:\Dev\BhOCR\Runtime files\Projects\_NA_SHMUEL_B Layer 2 - 0 pages

@@ -1,1 +1,2 @@
-MixedDisplay=0TextSource=ר' פנחס ראובן שליט''אCosmeticsType==726PutNewLinesAsIs=0Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_YISHAYA Layer 3 - 0 pages
+' פנחס ראובן שליט''א
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_YISHAYA Layer 3 - 0 pages

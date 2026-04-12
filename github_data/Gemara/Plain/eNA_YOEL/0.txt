@@ -1,1 +1,1 @@
-LastLevelIndex=2GroupId=b16CosmeticsType==726SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_YOEL Layer 1 - 0 pages
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_YOEL Layer 1 - 0 pages

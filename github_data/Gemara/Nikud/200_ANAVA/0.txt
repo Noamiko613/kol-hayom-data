@@ -1,1 +1,6 @@
-CosmeticsType=is2=13pr2=TextSource=הרב דוד גבריאל שליט''א // C:\Dev\BhOCR\Runtime files\Projects\ANAVA Layer 1 - 0 pages הרב דוד גבריאל שליט''א ילקוט נפלא במעלת הענווה וגנות גסי הרוח - ליקט וערך בעזרת החונן לאדם דעת - דוד גבריאל
+דוד גבריאל שליט''א
+
+// C:\Dev\BhOCR\Runtime files\Projects\ANAVA Layer 1 - 0 pages
+
+הרב דוד גבריאל שליט''א
+ילקוט נפלא במעלת הענווה וגנות גסי הרוח - ליקט וערך בעזרת החונן לאדם דעת - דוד גבריאל

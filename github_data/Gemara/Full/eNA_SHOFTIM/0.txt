@@ -1,1 +1,2 @@
-ForcedBookName=רש''יTextSource=ר' פנחס ראובן שליט''אLastLevelIndex=2SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\_NA_SHOFTIM Layer 1 - 0 pages
+''י' פנחס ראובן שליט''א
+// C:\Dev\BhOCR\Runtime files\Projects\_NA_SHOFTIM Layer 1 - 0 pages

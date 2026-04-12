@@ -1,1 +1,2 @@
-LastLevelIndex=2ForcedBookName=מצודת ציוןGroupId=b39SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_DIVRE_B Layer 3 - 0 pages
+ציון
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_DIVRE_B Layer 3 - 0 pages

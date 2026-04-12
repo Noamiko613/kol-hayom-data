@@ -1,1 +1,4 @@
-LastLevelIndex=2CosmeticsType=sem=@pr3=MIX2=0,1,7rep==?^^=]rep3==rep5=^^>>=&GroupId=zo3 // C:\Dev\BhOCR\Runtime files\Projects\ZOHAR2 Layer 1 - 0 pages @ פרשת שמות
+@pr3=,1,7rep==?
+// C:\Dev\BhOCR\Runtime files\Projects\ZOHAR2 Layer 1 - 0 pages
+
+@ פרשת שמות

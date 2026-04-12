@@ -1,1 +1,2 @@
-LastLevelIndex=2ForcedBookName=מצודת ציוןGroupId=b20SearchInTitles=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\eNA_MICHA Layer 3 - 0 pages
+ציון
+// C:\Dev\BhOCR\Runtime files\Projects\eNA_MICHA Layer 3 - 0 pages
