@@ -1,0 +1,1 @@
+TextSource=ר' פנחס ראובן שליט''אForcedBookName=רש''יGroupId=b4PutNewLinesAsIs=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\RASHI_BAMIDBAR Layer 1 - 0 pages

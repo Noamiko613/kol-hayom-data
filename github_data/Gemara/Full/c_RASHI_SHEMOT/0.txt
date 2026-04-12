@@ -1,0 +1,1 @@
+TextSource=ר' פנחס ראובן שליט''אForcedBookName=רש''יGroupId=b2PutNewLinesAsIs=0&Comments= // C:\Dev\BhOCR\Runtime files\Projects\RASHI_SHEMOT Layer 1 - 0 pages
