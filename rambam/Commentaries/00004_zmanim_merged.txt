@@ -1,76 +1,76 @@
-&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=Χ¨' Χ¤Χ Χ—Χ΅ Χ¨ΧΧ•Χ‘Χ Χ•Χ Χ¨.Χ Χ©ΧΧ™Χ''Χ&HiddenFromIndex=0&UniqueId=2013&ForcedBookName=Χ΅Χ¤Χ¨ Χ–ΧΧ Χ™Χ
-
-
-$ ΧΧ©Χ Χ” ΧªΧ•Χ¨Χ” - Χ΅Χ¤Χ¨ Χ–ΧΧ Χ™Χ
-
-[General]
-FilesNumber=7						// nubmer of files and columns
-CommonPrefix=""
-CommonSuffix=""
-CommonMiddle="<p>"
-
-
-[File1]
-Title="Χ”Χ¨ΧΧ‘''Χ"
-FileName="90004_zmanim.txt"		// in current folder
-Prefix=""
-Suffix=""
-Zoom=120		// 0 -user control
-SmallFactor=0		// number of small command to add before
-
-[File2]
-Title="Χ”Χ”Χ¨ΧΧ‘''Χ“"
-FileName="90004_zmanim_raavad.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-[File3]
-Title="ΧΧ’Χ™Χ“ ΧΧ©Χ Χ”"
-FileName="90004_zmanim_magid.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-
-[File4]
-Title="Χ›Χ΅Χ£ ΧΧ©Χ Χ”"
-FileName="90004_zmanim_kesef.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-		
-
-[File5]
-Title="ΧΧ—Χ ΧΧ©Χ Χ”"
-FileName="90004_zmanim_lechem.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-	
-[File6]
-Title="Χ¤Χ™Χ¨Χ•Χ©"
-FileName="90004_zmanim_perush.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-[File7]
-Title="ΧΧ”Χ¨''Χ Χ ' Χ—Χ‘Χ™Χ‘"
-FileName="90004_zmanim_haviv.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
+&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=ψ' τπηρ ψΰεαο εμ ψ.ξ ωμιθ''ΰ&HiddenFromIndex=0&UniqueId=2013&ForcedBookName=ρτψ ζξπιν
+
+
+$ ξωπδ ϊεψδ - ρτψ ζξπιν
+
+[General]
+FilesNumber=7						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle="<p>"
+
+
+[File1]
+Title="δψξα''ν"
+FileName="90004_zmanim.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=120		// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="δδψΰα''γ"
+FileName="90004_zmanim_raavad.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File3]
+Title="ξβιγ ξωπδ"
+FileName="90004_zmanim_magid.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+
+[File4]
+Title="λρσ ξωπδ"
+FileName="90004_zmanim_kesef.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+		
+
+[File5]
+Title="μην ξωπδ"
+FileName="90004_zmanim_lechem.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+	
+[File6]
+Title="τιψεω"
+FileName="90004_zmanim_perush.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File7]
+Title="ξδψ''μ π' ηαια"
+FileName="90004_zmanim_haviv.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+

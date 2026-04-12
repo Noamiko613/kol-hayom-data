@@ -1,47 +1,47 @@
-&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=Χ¨' Χ¤Χ Χ—Χ΅ Χ¨ΧΧ•Χ‘Χ Χ•Χ Χ¨.Χ Χ©ΧΧ™Χ''Χ&HiddenFromIndex=0&UniqueId=2036&ForcedBookName=Χ΅Χ¤Χ¨ Χ§Χ Χ™Χ
-
-
-$ ΧΧ©Χ Χ” ΧªΧ•Χ¨Χ” - Χ΅Χ¤Χ¨ Χ§Χ Χ™Χ
-
-[General]
-FilesNumber=4						// nubmer of files and columns
-CommonPrefix=""
-CommonSuffix=""
-CommonMiddle="<p>"
-
-
-[File1]
-Title="Χ”Χ¨ΧΧ‘''Χ"
-FileName="90013_kinyan.txt"		// in current folder
-Prefix=""
-Suffix=""
-Zoom=120		// 0 -user control
-SmallFactor=0		// number of small command to add before
-
-[File2]
-Title="Χ”Χ”Χ¨ΧΧ‘''Χ“"
-FileName="90013_kinyan_raavad.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-[File3]
-Title="ΧΧ’Χ™Χ“ ΧΧ©Χ Χ”"
-FileName="90013_kinyan_magid.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-
-[File4]
-Title="Χ›Χ΅Χ£ ΧΧ©Χ Χ”"
-FileName="90013_kinyan_kesef.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
+&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=ψ' τπηρ ψΰεαο εμ ψ.ξ ωμιθ''ΰ&HiddenFromIndex=0&UniqueId=2036&ForcedBookName=ρτψ χπιο
+
+
+$ ξωπδ ϊεψδ - ρτψ χπιο
+
+[General]
+FilesNumber=4						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle="<p>"
+
+
+[File1]
+Title="δψξα''ν"
+FileName="90013_kinyan.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=120		// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="δδψΰα''γ"
+FileName="90013_kinyan_raavad.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File3]
+Title="ξβιγ ξωπδ"
+FileName="90013_kinyan_magid.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+
+[File4]
+Title="λρσ ξωπδ"
+FileName="90013_kinyan_kesef.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
 Reshape=1

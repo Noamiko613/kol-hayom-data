@@ -1,37 +1,37 @@
-&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=×¨' ×¤× ×—×¡ ×¨××•×‘×Ÿ ×•×œ ×¨.× ×©×œ×™×˜''×&HiddenFromIndex=0&UniqueId=2001&ForcedBookName=×¡×¤×¨ ×¢×‘×•×“×”
-
-
-$ ××©× ×” ×ª×•×¨×” - ×¡×¤×¨ ×¢×‘×•×“×”
-
-[General]
-FilesNumber=4						// nubmer of files and columns
-CommonPrefix=""
-CommonSuffix=""
-CommonMiddle="<p>"
-
-
-[File1]
-Title="×”×¨××‘''×"
-FileName="90009_avoda.txt"		// in current folder
-Prefix=""
-Suffix=""
-Zoom=120		// 0 -user control
-SmallFactor=0		// number of small command to add before
-
-[File2]
-Title="×”×”×¨××‘''×“"
-FileName="90009_avoda_raavad.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
-
-[File4]
-Title="×›×¡×£ ××©× ×”"
-FileName="90009_avoda_kesef.txt"		// in current folder
-Prefix="<p><span style='font-size:80%; line-height:140%'>"
-Suffix="</span><br>"
-SmallFactor=0		// number of small command to add before
-Protected=0
-Reshape=1		// 0 - null  1 - Remove Ole Text
+&MixedDisplay=2&CosmeticsType==1997&LastLevelIndex=2&TextSource=ø' ôğçñ øàåáï åì ø.î ùìéè''à&HiddenFromIndex=0&UniqueId=2001&ForcedBookName=ñôø òáåãä
+
+
+$ îùğä úåøä - ñôø òáåãä
+
+[General]
+FilesNumber=4						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle="<p>"
+
+
+[File1]
+Title="äøîá''í"
+FileName="90009_avoda.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=120		// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="ääøàá''ã"
+FileName="90009_avoda_raavad.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File4]
+Title="ëñó îùğä"
+FileName="90009_avoda_kesef.txt"		// in current folder
+Prefix="<p><span style='font-size:80%; line-height:140%'>"
+Suffix="</span><br>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
