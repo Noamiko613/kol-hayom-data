@@ -1,0 +1,26 @@
+
+$ שלחן ערוך - אבן העזר
+
+[General]
+FilesNumber=2						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+
+[File1]
+Title="שלחן ערוך"
+FileName="042_even_haezer_menukad.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=137			// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="באר היטב"
+FileName="052_even_haezer_baer_heitev.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text

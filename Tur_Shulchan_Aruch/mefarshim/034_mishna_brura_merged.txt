@@ -1,0 +1,35 @@
+
+$ משנה ברורה
+
+[General]
+FilesNumber=3						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+
+[File1]
+Title="שלחן ערוך"
+FileName="040_orach_chaim_menukad.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=120		// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="משנה ברורה"
+FileName="401_mishna_brura_wikitext.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File3]
+Title="באור הלכה"
+FileName="402_beur_halacha_wikitext.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text

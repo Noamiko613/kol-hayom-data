@@ -1,0 +1,44 @@
+
+$ שלחן ערוך - אורח חיים
+
+[General]
+FilesNumber=4						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+
+[File1]
+Title="שלחן ערוך"
+FileName="040_orach_chaim_menukad.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=137			// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="באר היטב"
+FileName="050_orach_chaim_baer_heitev.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File3]
+Title="משנה ברורה"
+FileName="401_mishna_brura_wikitext.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text
+
+[File4]
+Title="באור הלכה"
+FileName="402_beur_halacha_wikitext.txt"		// in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1		// 0 - null  1 - Remove Ole Text

@@ -1,0 +1,34 @@
+
+$ דברים - מקרא ותרגום (ט)
+
+[General]
+FilesNumber=3						// nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+[File1]
+Title="מקרא"
+FileName="a05__Deuteronomy.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=200			// 0 -user control
+SmallFactor=0		// number of small command to add before
+
+[File2]
+Title="<TF>מ</TF>"
+FileName="a05__Deuteronomy.txt"		// in current folder
+Prefix=""
+Suffix="<small></small>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+Reshape=1
+
+[File3]
+Title="ת"
+FileName="i_onqelus.txt"		// in current folder
+Prefix=""
+Suffix="<small></small>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+

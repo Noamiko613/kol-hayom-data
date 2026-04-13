@@ -1,0 +1,33 @@
+$ במדבר - רש''י ושפתי חכמים
+
+[General]
+FilesNumber=3						// nubmer of files and columns
+CommonPrefix="<BR><BR>"
+CommonSuffix=""
+CommonMiddle=""
+
+[File1]
+Title="מקרא"
+FileName="a04_Numbers.txt"		// in current folder
+Prefix=""
+Suffix=""
+Zoom=0			// 0 - user control
+SmallFactor=0
+
+[File2]
+Title="פירוש רש''י"
+FileName="c_RASHI_BAMIDBAR_L1.txt"		// in current folder
+Prefix=""
+Suffix="<small> (רש''י)</small><BR><BR>"
+SmallFactor=0		// number of small command to add before
+
+
+[File3]
+Title="פירוש שפתי חכמים"
+FileName="c_siftei_4.txt"		// in current folder
+Prefix=""
+Suffix="<small> (שפתי חכמים)</small><BR><BR>"
+SmallFactor=0		// number of small command to add before
+Protected=0
+
+
