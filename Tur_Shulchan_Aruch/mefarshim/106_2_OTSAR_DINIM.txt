@@ -1,8 +1,9 @@
+&UniqueId=2336&LastLevelIndex=1&CosmeticsType=#bp=<span style='line-height:140%;'>#is2=16#bs1=22#pr2=<br><hr><br><br>#rep==<b style='font-size:140%'>^^=</b>#rep3=[[[=<br><b style='font-size:140%'>^^]]]=</b>#rep4=[[=<b>^^]]=</b>#rep5={=<span style='color:gray; font-size:80%;'>^^)}=)</span>#rep6=(=<small><small>(^^)=)</small></small>#rep7=[=<small><small>[^^]=]</small></small>&TextSource=מו''ר הרב יצחק יוסף שליט''א<BR>אסור להעתיק קטעים מהספר ללא ציון המקור!&ForcedBookName=אוצר דינים לאשה ולבת - ילקוט יוסף
 $ אוצר דינים לאשה ולבת
 על מצוות האשה, חיוביה, פטוריה, ומנהגיה
 לפי סדר השלחן ערוך - מהדורת תשס"ה
-<big><big>הראשל"צ הרב יצחק יוסף שליט"א</big></big>
-מסיבות טכניות לא הבאנו כאן את ההערות המובאות בספר המודפס	
+<big><big><b>הראשל"צ הרב יצחק יוסף שליט"א</b></big></big>
+<span style='color:blue;'>מסיבות טכניות לא הבאנו כאן את ההערות המובאות בספר המודפס</span>	
 
 ~ הסכמות
 

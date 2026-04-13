@@ -1,4 +1,5 @@
-;&CosmeticsType=#nik=1#rnft=2#dii=1#is2=16#is5=12#ip2=_nbsp_nbsp_nbsp_nbsp#ip5=_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;#ti2=110#bs1=16#bs5=14#sp1=0#sp2=0#pr1=<BR>#pr2=<BR><HR><BR>#rep2=(=<small><small>(^^)=)</small></small>&TextSource=www.kitzur.net&ParagraphPrefix=~&SpecialTitle=&LastLevelIndex=1&PutNewlinesAsIs=1&SearchInTitles=1&UniqueId=561&ChainFolderName=0&CosmeticsType=#dii=1#is2=16#ip2=_nbsp_nbsp_nbsp_nbsp#bs1=16#sp1=0#sp2=0#pr1=<BR>#pr2=<BR><HR><BR>&PutNewLinesAsIs=1&FilesGotFrom=ר' מאיר רפילוביץ מבעל אתר www.kitzur.net  ר' דרור מאור הי"ו
+&LastLevelIndex=1
+;&CosmeticsType=#nik=1#rnft=2#dii=1#is2=16#is5=12#ip2=<br>_nbsp_nbsp<img  alt='''' src='..\pics\dot.bmp''>_nbsp_nbsp#ip5=_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;_nbsp;#ti2=110#bs1=16#bs5=14#sp1=0#sp2=0#pr1=<BR>#pr2=<BR><HR><BR>#rep2=(=<small><small>(^^)=)</small></small>&TextSource=www.kitzur.net&ParagraphPrefix=~&SpecialTitle=&LastLevelIndex=1&PutNewlinesAsIs=1&SearchInTitles=1&UniqueId=561&ChainFolderName=0&CosmeticsType=#dii=1#is2=16#ip2=_nbsp_nbsp<img alt='''' src='.\pics\dot.bmp''>_nbsp_nbsp#bs1=16#sp1=0#sp2=0#pr1=<BR>#pr2=<BR><HR><BR>&PutNewLinesAsIs=1&FilesGotFrom=ר' מאיר רפילוביץ מבעל אתר www.kitzur.net  ר' דרור מאור הי"ו
 
 $ קיצור שולחן ערוך
 רבי שלמה גאנצפריד זצ"ל
