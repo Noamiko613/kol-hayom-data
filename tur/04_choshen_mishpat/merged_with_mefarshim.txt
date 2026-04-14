@@ -1,0 +1,60 @@
+$ טור - חשן משפט
+
+[General]
+FilesNumber=6 // nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+[File1]
+Title="טור"
+FileName="160_tur_choshen_mishpat_tur.txt" // in current folder
+Prefix="" // new 2017
+Suffix="" // new 2017
+Zoom=137 // 0 -user control
+SmallFactor=0 // number of small command to add before
+
+[File2]
+Title="בית יוסף"
+FileName="161_tur_choshen_mishpat_beit_yosef.txt" // in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0 // number of small command to add before
+Protected=0
+Reshape=1 // 0 - null 1 - Remove Ole Text
+
+[File3]
+Title="בית חדש"
+FileName="162_tur_choshen_mishpat_bach.txt" // in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0 // number of small command to add before
+Protected=0
+Reshape=1 // 0 - null 1 - Remove Ole Text
+
+[File4]
+Title="דרכי משה"
+FileName="163_tur_choshen_mishpat_darkei_moshe.txt" // in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0 // number of small command to add before
+Protected=0
+Reshape=1 // 0 - null 1 - Remove Ole Text
+
+[File5]
+Title="דרישה"
+FileName="164_tur_choshen_mishpat_drisha.txt" // in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0 // number of small command to add before
+Protected=0
+Reshape=1 // 0 - null 1 - Remove Ole Text
+
+[File6]
+Title="פרישה"
+FileName="165_tur_choshen_mishpat_prisha.txt" // in current folder
+Prefix=""
+Suffix=""
+SmallFactor=0 // number of small command to add before
+Protected=0
+Reshape=1 // 0 - null 1 - Remove Ole Text

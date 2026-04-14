@@ -1,0 +1,43 @@
+$ דברי הימים א (ט)
+
+[General]
+FilesNumber=5 // nubmer of files and columns
+CommonPrefix=""
+CommonSuffix=""
+CommonMiddle=""
+
+[File1]
+Title="מקרא"
+FileName="a38_Chronicles__1.txt" // in current folder
+Prefix=""
+Suffix=""
+Zoom=0
+SmallFactor=0 // number of small command to add before
+
+[File2]
+Title="פירוש רש''י"
+FileName="eNA_DIVRE_A_L1.txt" // in current folder
+Prefix=""
+Suffix="(רש''י)"
+SmallFactor=0 // number of small command to add before
+
+[File3]
+Title="פירוש מצודת דוד"
+FileName="fNA_DIVRE_A_L1.txt" // in current folder
+Prefix=""
+Suffix="(מצודת דוד)"
+SmallFactor=0 // number of small command to add before
+
+[File4]
+Title="פירוש מצודת ציון"
+FileName="gNA_DIVRE_A_L1.txt" // in current folder
+Prefix=""
+Suffix="(מצודת ציון)"
+SmallFactor=0 // number of small command to add before
+
+[File5]
+Title="פירוש רלב''ג"
+FileName="gNA_DIVRE_A_L1_2.txt" // in current folder
+Prefix=""
+Suffix="(רלב''ג)"
+SmallFactor=0 // number of small command to add before
